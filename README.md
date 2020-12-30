@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou Fabricio Cintra
 
-### Desenvolvedor web e móvel, apaixonado por ético hacker 👾
+### Desenvolvedor móvel e apaixonado por ético hacker 👾
 
 -   👨🏻‍💻  I’m currently learning  **Flutter**
     
