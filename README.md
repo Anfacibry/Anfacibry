@@ -1,7 +1,7 @@
 <h1 align= "center">Olá 👋 Eu sou Fabricio Cintra</h1>
 
 
-<h4 align = "center"> Desenvolvedor móvel e apaixonado por ético hacker 👾</h4>
+<h3 align = "center"> Desenvolvedor móvel e apaixonado por ético hacker 👾</h3>
 
 -   👨🏻‍💻  I’m currently learning  **dart**/**Flutter**
     
@@ -38,5 +38,6 @@ alt="Git" width="40" height="40"/></a>  <a href="https://flutter.dev/
 alt="flutter" width="40" height="40"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anfacibry&theme=default&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anfacibry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
