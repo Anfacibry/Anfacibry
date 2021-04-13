@@ -9,7 +9,7 @@
     
 -   🤫  Fun fact:  **I love programming Christian content and watching meme videos.**
 
-#### Conecte-se comigo:
+<h3>Conecte-se comigo:</h3>
 <a href="https://www.instagram.com/_fabricio_cintra/
 " target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/38-instagram-512.png" 
 alt="Instagram" width="30" height="30"/></a> <a href="https://www.facebook.com/Anfacibry/
@@ -21,7 +21,7 @@ alt="Twitter" width="30" height="30"/></a>
 " target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Linkedin_glyph_svg-512.png" 
 alt="Twitter" width="30" height="30"/></a>
 
-#### [](https://github.com/Anfacibry#languages-and-tools)Languages and Tools:
+<h3>Languages and Tools:</h3>
 
 <a href="https://dart.dev/
 " target="_blank"><img src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" 
