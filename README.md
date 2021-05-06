@@ -12,7 +12,7 @@
 <h3>Conecte-se comigo:</h3>
 <a href="https://www.instagram.com/_fabricio_cintra/
 " target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/38-instagram-512.png" 
-alt="Instagram" width="35" height="35"/></a> <a href="https://www.facebook.com/Anfacibry/
+alt="Instagram" width="30" height="30"/></a> <a href="https://www.facebook.com/Anfacibry/
 " target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-512.png" 
 alt="Facebook" width="30" height="30"/></a> <a href="https://twitter.com/Anfacibry
 " target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-512.png" 
