@@ -1,7 +1,7 @@
 <h1 align= "center">Olá 👋 Eu sou Fabricio Cintra</h1>
 
 
-<h3 align = "center"> Desenvolvedor móvel e apaixonado por ético hacker 👾</h3>
+<h3 align = "center"> Desenvolvedor móvel com dart | flutter</h3>
 
 -   👨🏻‍💻  I’m currently learning  **dart**/**Flutter**
     
