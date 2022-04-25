@@ -3,11 +3,25 @@
 
 <h3 align = "center"> Desenvolvedor móvel com dart | flutter</h3>
 
--   👨🏻‍💻  I’m currently learning  **dart**/**Flutter**
-    
--   🤜🤛  I’m looking to collaborate with  **other content creators**
-    
--   🤫  Fun fact:  **I love programming Christian content and watching meme videos.**
+Sou um apaixonado por tecnologia! Tenho bacharel em ciência da computação e atualmente estou estudando programação para desenvolvimento mobile com a linguagem Dart e framework Flutter na Alura. 
+Depois de formado, venho procurando cada vez mais novos conhecimentos em tecnologia com foco em programação para desenvolvimento mobile. 
+
+Com um conhecimento adquirido em Figma, sempre estou procurando criar novos projetos pessoas e colocá-los em prática, usando da tecnologia pela qual estou estudando e tendo um bom conhecimento do mesmo, servindo também como uma forma de melhorar o meu crescimento e maturidade em programação e aplicar todo o conhecimento adquirido nos cursos estudados.
+
+Atualmente estou estudando Inglês como autodidata!
+
+Conhecimentos :
+‣ Figma
+‣ Git
+‣ Github
+‣ Dart
+‣ Flutter - Front-End
+
+Tecnologias para estudos futuros :
+‣ Flutter - Back-End
+‣ Firebase
+‣ MySql
+‣ Kotlin
 
 <h3>Conecte-se comigo:</h3>
 <a href="https://www.instagram.com/_fabricio_cintra/
