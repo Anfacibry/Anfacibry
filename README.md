@@ -17,10 +17,14 @@ Conhecimentos :
 ‣ Dart
 ‣ Flutter - Front-End
 
-Tecnologias para estudos futuros :
+Tecnologias com estudos atuais:
 ‣ Flutter - Back-End
 ‣ Firebase
 ‣ MySql
+‣ Django REST APIs
+‣ Comunicação HTTP
+
+Tecnologias para estudos futuros:
 ‣ Kotlin
 
 <h3>Conecte-se comigo:</h3>
