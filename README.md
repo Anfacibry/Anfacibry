@@ -16,6 +16,7 @@ Conhecimentos :
 ‣ Github
 ‣ Dart
 ‣ Flutter - Front-End
+‣ SQLite
 
 Tecnologias com estudos atuais:
 ‣ Flutter - Back-End
@@ -24,8 +25,6 @@ Tecnologias com estudos atuais:
 ‣ Django REST APIs
 ‣ Comunicação HTTP
 
-Tecnologias para estudos futuros:
-‣ Kotlin
 
 <h3>Conecte-se comigo:</h3>
 <a href="https://www.instagram.com/_fabricio_cintra/
