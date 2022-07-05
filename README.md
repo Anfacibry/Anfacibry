@@ -8,23 +8,6 @@ Depois de formado, venho procurando cada vez mais novos conhecimentos em tecnolo
 
 Com um conhecimento adquirido em Figma, sempre estou procurando criar novos projetos pessoais e colocá-los em prática, usando da tecnologia pela qual estou estudando e tendo um bom conhecimento do mesmo, servindo também como uma forma de melhorar o meu crescimento e maturidade em programação e aplicar todo o conhecimento adquirido nos cursos estudados.
 
-Atualmente estou estudando Inglês como autodidata!
-
-Conhecimentos :
-‣ Figma
-‣ Git
-‣ Github
-‣ Dart
-‣ Flutter - Front-End
-‣ SQLite
-
-Tecnologias com estudos atuais:
-‣ Flutter - Back-End
-‣ Firebase
-‣ MySql
-‣ Django REST APIs
-‣ Comunicação HTTP
-
 
 <h3>Conecte-se comigo:</h3>
 <a href="https://www.instagram.com/_fabricio_cintra/
