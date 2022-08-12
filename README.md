@@ -3,8 +3,7 @@
 
 <h3 align = "center"> Desenvolvedor móvel com dart | flutter</h3>
 
-Tenho bacharel em ciência da computação! Sou um apaixonado por tecnologia e atualmente desenvolvo aplicações para mobile com a linguagem Dart e framework Flutter. 
-Depois de formado, venho procurando cada vez mais novos conhecimentos para front-end e back-end com foco em desenvolvimento mobile. 
+Sou apaixonado por tecnologia e atualmente desenvolvo aplicações para mobile utilizando a linguagem Dart e framework Flutter. Depois de formado em ciência da computação, venho procurando cada vez mais novos conhecimentos para front-end e back-end com foco em desenvolvimento mobile.
 
 Gosto de está criando layouts de projetos pessoais, em seguida desenvolvendo os mesmo para sistema Android
 
